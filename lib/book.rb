@@ -4,6 +4,8 @@ end
 
 
 title= Book.new
-book.
+book.title = title_it
+book.author = author_it
+book.page_count = page_it
 
 
