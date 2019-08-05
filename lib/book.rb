@@ -30,7 +30,7 @@ def genres
   @genres
 end
 end
-
+end
 
 
 
