@@ -17,16 +17,16 @@ end
 def page_count= (pages)
   @pages= pages
 end
-def pages
-  @pages
+def page_count
+  @page_count
 end
 
 def genre= (genres)
   @genres= genres
 end
 
-def genres
-  @genres
+def genre
+  @genre
 end
 end
 
