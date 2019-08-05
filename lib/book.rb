@@ -28,10 +28,13 @@ end
 def genre
   @genre
 end
-def turn page
+def turn_page
   puts "Flipping the page...wow, you read fast!"
 end
 end
+
+book= Book.new("titles")
+book.turn_page
 
 
 
