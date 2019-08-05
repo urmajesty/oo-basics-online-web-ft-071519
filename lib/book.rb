@@ -6,7 +6,6 @@ end
 def title
  @title
 end
-end
 
 def author= (author)
   @author= author
@@ -29,7 +28,7 @@ end
 def genres
   @genres
 end
-
+end
 
 
 
