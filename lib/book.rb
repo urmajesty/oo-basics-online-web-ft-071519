@@ -15,14 +15,14 @@ def author
 end
 
 def page_count= (pages)
-  @pages= pages
+  @page_count= pages
 end
 def page_count
   @page_count
 end
 
 def genre= (genres)
-  @genres= genres
+  @genre= genres
 end
 
 def genre
